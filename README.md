@@ -2,6 +2,10 @@
 
 A Python-based banking system that manages user accounts with functionalities like adding new accounts, depositing, withdrawing funds, and checking balances. This system utilizes Object-Oriented Programming (OOP) principles and stores account data using `.txt` and `.pkl` files for persistence.
 
+## Project Timeline
+- **Creation Date**: August 18, 2023
+- **Uploaded to GitHub**: 2024
+
 ## Features
 
 - **Add Account**: Create new accounts with a unique ID, name, and initial balance.
